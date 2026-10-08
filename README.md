@@ -2,7 +2,7 @@
 I am a student at Moreno Valley College studying Criminal Intelligence and learning how geographic data can be used to better understand real-world patterns. I want to continue to improve my GIS skills and learn how mapping can be useful for areas such as communities and public safety.
 ---
 ## COVID-19 Case Rates in New York City
-![COVID-19 case rates across New York City](images/Lab2_png.(https://github.com/mmeza06/mmeza.github.io/blob/main/images/Lab2_png..png))
+![COVID-19 case rates across New York City](images/Lab2_png..png)
 
 *Interactive version, live as of October 2026: [*https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749*](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749) 
 
