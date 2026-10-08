@@ -2,7 +2,7 @@
 I am a student at Moreno Valley College studying Criminal Intelligence and learning how geographic data can be used to better understand real-world patterns. I want to continue to improve my GIS skills and learn how mapping can be useful for areas such as communities and public safety.
 ---
 ## COVID-19 Case Rates in New York City
-![COVID-19 case rates across New York City](images/Lab2.png)
+![COVID-19 case rates across New York City](images/Lab2.png)(https://github.com/mmeza06/mmeza.github.io/blob/main/images/Lab2_png..png))
 *Interactive version, live as of October 2026: *https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749* 
 **Question:** How did COVID-19 case rates vary across different ZIP Code Tabulation Areas in New York City, and what patterns become visible when rates are mapped instead of only raw case counts?
 **Data:** I used COVID-19 data published by the New York City Department of Health and Mental Hygiene for 2020 along with ZIP Code Tabulation Area geographic data from U.S. Census Bureau.
