@@ -2,7 +2,7 @@
 I am a student at Moreno Valley College studying Criminal Intelligence and learning how geographic data can be used to better understand real-world patterns. I want to continue to improve my GIS skills and learn how mapping can be useful for areas such as communities and public safety.
 ---
 ## COVID-19 Case Rates in New York City
-![COVID-19 case rates across New York City](images/Lab2.png)(https://github.com/mmeza06/mmeza.github.io/blob/main/images/Lab2_png..png))
+![COVID-19 case rates across New York City](images/Lab2_png.)(https://github.com/mmeza06/mmeza.github.io/blob/main/images/Lab2_png..png))
 *Interactive version, live as of October 2026: *https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749* 
 **Question:** How did COVID-19 case rates vary across different ZIP Code Tabulation Areas in New York City, and what patterns become visible when rates are mapped instead of only raw case counts?
 **Data:** I used COVID-19 data published by the New York City Department of Health and Mental Hygiene for 2020 along with ZIP Code Tabulation Area geographic data from U.S. Census Bureau.
@@ -12,7 +12,7 @@ I am a student at Moreno Valley College studying Criminal Intelligence and learn
 ---
 --7--
 ## Historical Redlining and Present-Day Conditions in Atlanta
-![Map showing historical redlining areas in Atlanta, Georgia](images/Enrich Redlining.png)
+![Map showing historical redlining areas in Atlanta, Georgia](images/Enrich_Redlining.png)
 **Question:** How do historical redlining patterns in Atlanta compare with present-day social and economic conditions?
 **Data:** I used the Mapping Inequality Redlining Areas dataset from ArcGIS Living Atlas, based on Home Owners Loan Corporation maps created between 1935 and 1940. I also worked with modern American Community Survey and Esri demographic and housing variables.
 **Method:** I used ArcGIS Pro to isolate the historical redlining areas in Atlanta and worked with enriched data containing modern demographic and housing information. I explored variables related to poverty, internet access, and housing conditions. I also used scatter plot, a correlation matrix, and boxplots to look for relationships between historical neighborhood grades and current conditions.
