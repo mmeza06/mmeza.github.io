@@ -16,7 +16,6 @@ I am a student at Moreno Valley College studying Criminal Intelligence and learn
 
 **A limitation of this map:** The map shows where case rates were higher or lower, but it cannot explain exactly why those differences occurred. It also groups information by ZIP code area, so it does not represent the experience or risk of any individual.
 ---
---7--
 ## Historical Redlining and Present-Day Conditions in Atlanta
 ![Map showing historical redlining areas in Atlanta, Georgia](images/Enrich_Redlining.png)
 **Question:** How do historical redlining patterns in Atlanta compare with present-day social and economic conditions?
