@@ -4,7 +4,7 @@ I am a student at Moreno Valley College studying Criminal Intelligence and learn
 ## COVID-19 Case Rates in New York City
 ![COVID-19 case rates across New York City](images/Lab2_png..png)
 
-*Interactive version, live as of October 2026: [*https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749*](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749) 
+*Interactive version, live as of October 2026:(https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=2cd4771177494b97ab199ba959e75749) ]
 
 **Question:** How did COVID-19 case rates vary across different ZIP Code Tabulation Areas in New York City, and what patterns become visible when rates are mapped instead of only raw case counts?
 
